@@ -6,7 +6,10 @@
     margin: 0;
     padding: 0;
    }
-
+.header-main {
+    background-color: rgba(255, 144, 14, 0.1);
+    padding-bottom: 20px;
+}
 .header {
     display: flex;
     align-items: center;
@@ -19,7 +22,7 @@
     color: #131313;
     font-family: 'Work Sans';
     font-style: normal;
-    background-color: rgba(255, 144, 14, 0.1);
+    
   }
 
 nav > ul {
@@ -48,7 +51,7 @@ transform: scale(1.1);
     margin-left: 20%;
     margin-right: 20%;
     margin-bottom: 20px;
-    background-color: rgba(255, 144, 14, 0.1);
+    
 }
 .top-title {
     font-family: 'Work Sans';
@@ -97,7 +100,7 @@ transform: scale(1.1);
     margin-left: 5%;
     margin-right: 5%;
     align-items: center;
-    background-color: rgba(255, 144, 14, 0.1);
+    
 }
 .banner-image img{
     width: 93%;
